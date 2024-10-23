@@ -1,0 +1,9 @@
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
