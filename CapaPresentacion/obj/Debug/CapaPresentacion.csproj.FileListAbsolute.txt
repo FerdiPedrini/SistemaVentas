@@ -30,3 +30,11 @@ C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaPresenta
 C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
 C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
 C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\windows\Desktop\Sistema Ventas Labo TP FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources

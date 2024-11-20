@@ -22,11 +22,11 @@ namespace CapaDatos
 
                     conexion.Open();
 
-                    using (SqlDataReader rd = cmd.ExecuteReader())  
+                    using (SqlDataReader rd = cmd.ExecuteReader())   
                     {
                         while (rd.Read())
                         {
-                           
+                            
                             lista.Add(new Usuario()
                             {
                                 IdUsuario = Convert.ToInt32(rd["IdUsuario"]),
@@ -45,7 +45,7 @@ namespace CapaDatos
                 }
             }
 
-            return lista; 
+            return lista;   
         }
     }
 }

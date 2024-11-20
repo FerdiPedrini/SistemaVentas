@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\windows\\Desktop\\sistema ventas labo\\SistemaVentas-Labo3\\",
+  "WorkspaceRootPath": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\windows\\desktop\\sistema ventas labo\\sistemaventas-labo3\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\windows\\desktop\\repo sistema ventas labo\\sistemaventas-labo3\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\windows\\desktop\\sistema ventas labo\\sistemaventas-labo3\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\windows\\desktop\\sistema ventas labo\\sistemaventas-labo3\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{043ED5EB-288B-4A48-8222-C1E6D0A283E8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\windows\\desktop\\sistema ventas labo\\sistemaventas-labo3\\capanegocio\\cn_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{043ED5EB-288B-4A48-8222-C1E6D0A283E8}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capanegocio\\cn_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{043ED5EB-288B-4A48-8222-C1E6D0A283E8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{038736F4-FEE5-4354-9BE9-023EC90B7CCD}|CapaDatos\\CapaDatos.csproj|c:\\users\\windows\\desktop\\sistema ventas labo\\sistemaventas-labo3\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{038736F4-FEE5-4354-9BE9-023EC90B7CCD}|CapaDatos\\CapaDatos.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{038736F4-FEE5-4354-9BE9-023EC90B7CCD}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{038736F4-FEE5-4354-9BE9-023EC90B7CCD}|CapaDatos\\CapaDatos.csproj|c:\\users\\windows\\desktop\\sistema ventas labo\\sistemaventas-labo3\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{038736F4-FEE5-4354-9BE9-023EC90B7CCD}|CapaDatos\\CapaDatos.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{038736F4-FEE5-4354-9BE9-023EC90B7CCD}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\sistema ventas labo\\SistemaVentas-Labo3\\CapaPresentacion\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\Login.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Login.cs",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\sistema ventas labo\\SistemaVentas-Labo3\\CapaPresentacion\\Login.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\Login.cs",
               "RelativeToolTip": "CapaPresentacion\\Login.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T23:43:31.873Z",
               "EditorCaption": ""
@@ -57,65 +57,60 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\sistema ventas labo\\SistemaVentas-Labo3\\CapaPresentacion\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\Login.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Login.cs",
               "ToolTip": "C:\\Users\\windows\\Desktop\\sistema ventas labo\\SistemaVentas-Labo3\\CapaPresentacion\\Login.cs [Design]",
-              "RelativeToolTip": "CapaPresentacion\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\sistema ventas labo\\SistemaVentas-Labo3\\CapaPresentacion\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:43:30.253Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-23T23:43:30.253Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\sistema ventas labo\\SistemaVentas-Labo3\\CapaPresentacion\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\Program.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\sistema ventas labo\\SistemaVentas-Labo3\\CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\Program.cs",
               "RelativeToolTip": "CapaPresentacion\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:43:27.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T23:43:27.092Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CN_Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\sistema ventas labo\\SistemaVentas-Labo3\\CapaNegocio\\CN_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaNegocio\\CN_Usuario.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\CN_Usuario.cs",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\sistema ventas labo\\SistemaVentas-Labo3\\CapaNegocio\\CN_Usuario.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaNegocio\\CN_Usuario.cs",
               "RelativeToolTip": "CapaNegocio\\CN_Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:43:23.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T23:43:23.994Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\sistema ventas labo\\SistemaVentas-Labo3\\CapaDatos\\Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaDatos\\Conexion.cs",
               "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\sistema ventas labo\\SistemaVentas-Labo3\\CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaDatos\\Conexion.cs",
               "RelativeToolTip": "CapaDatos\\Conexion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:43:17.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T23:43:17.697Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "CD_Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\sistema ventas labo\\SistemaVentas-Labo3\\CapaDatos\\CD_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaDatos\\CD_Usuario.cs",
               "RelativeDocumentMoniker": "CapaDatos\\CD_Usuario.cs",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\sistema ventas labo\\SistemaVentas-Labo3\\CapaDatos\\CD_Usuario.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaDatos\\CD_Usuario.cs",
               "RelativeToolTip": "CapaDatos\\CD_Usuario.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:43:02.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T23:43:02.459Z"
             }
           ]
         }
