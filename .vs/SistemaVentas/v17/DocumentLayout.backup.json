@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\windows\\desktop\\repo sistema ventas labo\\sistemaventas-labo3\\capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043ED5EB-288B-4A48-8222-C1E6D0A283E8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\windows\\desktop\\repo sistema ventas labo\\sistemaventas-labo3\\capanegocio\\cn_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043ED5EB-288B-4A48-8222-C1E6D0A283E8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043ED5EB-288B-4A48-8222-C1E6D0A283E8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\windows\\desktop\\repo sistema ventas labo\\sistemaventas-labo3\\capanegocio\\cn_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043ED5EB-288B-4A48-8222-C1E6D0A283E8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038736F4-FEE5-4354-9BE9-023EC90B7CCD}|CapaDatos\\CapaDatos.csproj|c:\\users\\windows\\desktop\\repo sistema ventas labo\\sistemaventas-labo3\\capadatos\\cd_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038736F4-FEE5-4354-9BE9-023EC90B7CCD}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\windows\\desktop\\repo sistema ventas labo\\sistemaventas-labo3\\capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,19 +39,11 @@
       "RelativeMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\windows\\desktop\\repo sistema ventas labo\\sistemaventas-labo3\\capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{043ED5EB-288B-4A48-8222-C1E6D0A283E8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\windows\\desktop\\repo sistema ventas labo\\sistemaventas-labo3\\capanegocio\\cn_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{043ED5EB-288B-4A48-8222-C1E6D0A283E8}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capanegocio\\cn_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{043ED5EB-288B-4A48-8222-C1E6D0A283E8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{038736F4-FEE5-4354-9BE9-023EC90B7CCD}|CapaDatos\\CapaDatos.csproj|c:\\users\\windows\\desktop\\repo sistema ventas labo\\sistemaventas-labo3\\capadatos\\cd_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{038736F4-FEE5-4354-9BE9-023EC90B7CCD}|CapaDatos\\CapaDatos.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capadatos\\cd_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{038736F4-FEE5-4354-9BE9-023EC90B7CCD}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,11 +51,11 @@
       "RelativeMoniker": "D:0:0:{038736F4-FEE5-4354-9BE9-023EC90B7CCD}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3524FC66-ADD0-4DE4-BE14-413241CCB99C}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\windows\\desktop\\repo sistema ventas labo\\sistemaventas-labo3\\capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3524FC66-ADD0-4DE4-BE14-413241CCB99C}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3524FC66-ADD0-4DE4-BE14-413241CCB99C}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{038736F4-FEE5-4354-9BE9-023EC90B7CCD}|CapaDatos\\CapaDatos.csproj|c:\\users\\windows\\desktop\\repo sistema ventas labo\\sistemaventas-labo3\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{038736F4-FEE5-4354-9BE9-023EC90B7CCD}|CapaDatos\\CapaDatos.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{038736F4-FEE5-4354-9BE9-023EC90B7CCD}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,7 +67,7 @@
       "RelativeMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\windows\\desktop\\repo sistema ventas labo\\sistemaventas-labo3\\capapresentacion\\frmusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capapresentacion\\frmusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -57,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{043ED5EB-288B-4A48-8222-C1E6D0A283E8}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capanegocio\\cn_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{043ED5EB-288B-4A48-8222-C1E6D0A283E8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F72B1B69-71E1-4627-9CBB-9EA1BF6BCF5A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3524FC66-ADD0-4DE4-BE14-413241CCB99C}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\capaentidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,46 +97,42 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmProducto.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmProducto.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\frmProducto.cs",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmProducto.cs",
-              "RelativeToolTip": "CapaPresentacion\\frmProducto.cs",
-              "ViewState": "AgIAACABAAAAAAAAAAAMwCoBAAAWAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CN_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaNegocio\\CN_Cliente.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Cliente.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaNegocio\\CN_Cliente.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T19:54:33.82Z",
+              "WhenOpened": "2024-11-27T21:09:01.895Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CD_Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaDatos\\CD_Usuario.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\CD_Usuario.cs",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaDatos\\CD_Usuario.cs",
-              "RelativeToolTip": "CapaDatos\\CD_Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "frmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmClientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmClientes.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmClientes.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAQwGgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T19:28:51.77Z",
+              "WhenOpened": "2024-11-27T21:06:59.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CD_Producto.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaDatos\\CD_Producto.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\CD_Producto.cs",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaDatos\\CD_Producto.cs",
-              "RelativeToolTip": "CapaDatos\\CD_Producto.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADUAAAAhAAAAAAAAAA==",
+              "Title": "CN_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaNegocio\\CN_Usuario.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Usuario.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaNegocio\\CN_Usuario.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T19:28:19.002Z",
+              "WhenOpened": "2024-11-27T21:02:09.873Z",
               "EditorCaption": ""
             },
             {
@@ -143,7 +155,7 @@
               "RelativeDocumentMoniker": "CapaPresentacion\\frmUsuarios.cs",
               "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmUsuarios.cs",
               "RelativeToolTip": "CapaPresentacion\\frmUsuarios.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB0AAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAhwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T20:21:29.55Z",
               "EditorCaption": ""
@@ -151,6 +163,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "frmClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmClientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmClientes.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\frmClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:56:59.272Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CD_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaDatos\\CD_Cliente.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Cliente.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaDatos\\CD_Cliente.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Cliente.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:54:01.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmProducto.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmProducto.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmProducto.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmProducto.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAAAD8BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:54:33.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CD_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaDatos\\CD_Producto.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Producto.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaDatos\\CD_Producto.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Producto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:28:19.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CD_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaDatos\\CD_Usuario.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Usuario.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaDatos\\CD_Usuario.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:28:51.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "frmProducto.cs [Design]",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmProducto.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmProducto.cs",
@@ -162,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaEntidad\\Producto.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\Producto.cs",
@@ -175,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "CN_Producto.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaNegocio\\CN_Producto.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\CN_Producto.cs",
@@ -188,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "frmUsuarios.Designer.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmUsuarios.Designer.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmUsuarios.Designer.cs",
@@ -201,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "CD_Categoria.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaDatos\\CD_Categoria.cs",
               "RelativeDocumentMoniker": "CapaDatos\\CD_Categoria.cs",
@@ -214,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "frmCategoria.cs [Design]",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmCategoria.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmCategoria.cs",
@@ -226,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "frmCategoria.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmCategoria.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmCategoria.cs",
@@ -239,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "frmCategoria.Designer.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmCategoria.Designer.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmCategoria.Designer.cs",
@@ -252,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "CN_Categoria.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaNegocio\\CN_Categoria.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\CN_Categoria.cs",
@@ -265,18 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "frmClientes.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmClientes.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\frmClientes.cs",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaPresentacion\\frmClientes.cs [Design]",
-              "RelativeToolTip": "CapaPresentacion\\frmClientes.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:56:59.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\Repo Sistema Ventas Labo\\SistemaVentas-Labo3\\CapaEntidad\\Categoria.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\Categoria.cs",
@@ -284,7 +349,8 @@
               "RelativeToolTip": "CapaEntidad\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:54:40.352Z"
+              "WhenOpened": "2024-11-25T20:54:40.352Z",
+              "EditorCaption": ""
             }
           ]
         }
